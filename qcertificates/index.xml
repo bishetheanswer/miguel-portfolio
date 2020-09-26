@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Certificates on Miguel Játiva</title>
+    <link>https://bishetheanswer.github.io/miguel-portfolio/qcertificates/</link>
+    <description>Recent content in Certificates on Miguel Játiva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://bishetheanswer.github.io/miguel-portfolio/qcertificates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IBM Data Science Professional Certificate</title>
+      <link>https://bishetheanswer.github.io/miguel-portfolio/qcertificates/certificate-1/</link>
+      <pubDate>Fri, 25 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://bishetheanswer.github.io/miguel-portfolio/qcertificates/certificate-1/</guid>
+      <description>The program consists of 9 online courses that provides you with the latest job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms.
+ What is Data Science? Tools for Data Science Data Science Methodology Python for Data Science and AI Databases and SQL for DataScience Data Analysis with Python Data Visualization with Python Machine Learning with Python Applied Data Science Capstone  Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio</description>
+    </item>
+    
+  </channel>
+</rss>
